@@ -1,0 +1,154 @@
+#title{
+    background-image: url('backimg.jpg');
+    background-size: 100% 100%;
+    color: #fff;
+}
+.row1 {
+    padding-top: 190px;
+    padding-bottom: 205px;
+    padding-left: 150px;
+}
+.heading {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;  
+}
+.nav-item {
+    padding-right: 1.5rem;
+    font-size: large;
+}
+.int-img {
+    padding: 1.5rem;
+}
+.int-im {
+    float: left;
+    padding-right: 2.5rem;
+}
+#features {
+    background-color: #2C3333;
+}
+.about {
+    font-size: large;
+    color: #fff;
+}
+.int-head {
+    color: white;
+}
+.req-head {
+    text-align: center;
+    
+    color: #00337C;
+    padding: 70px 150px 30px 150px;
+    
+}
+.heading1{
+    font-size: 3.5rem;
+   text-align: center;
+   color:#00337C;
+   margin-bottom: 30px;
+}
+.image2{
+    width: 650px;
+    height: 500px;
+   float: right;
+  text-align: center;
+  
+}
+@media(max-width: 1080px ){
+    .image1 {
+        width: 100%;
+        border-radius: 5%;
+    }
+    .image2 {
+        width: 100%;
+        padding-left: 1.5rem;
+        border-radius: 5%;
+    }
+}
+.gif{
+    margin: 0px;
+    padding: 0px;
+}
+
+.community{
+    padding: 20px;
+}
+.community-text{
+    margin: 15px 0 0 0;
+    font-size: 1.3rem;
+   
+}
+.result-text{
+    padding-bottom: 3.7rem;
+}
+.image1{
+   float: left;
+   height: 440px;
+   margin-right: 30px;
+   
+ 
+}
+.heading2{
+    padding: 50px 50px 40px 50px;
+    font-size: 3.5rem;
+    text-align: center;
+    color:#00337C;
+}
+.motivation-text{
+    font-size: 1.3rem;
+    margin-left: 20px;
+}
+.motivation{
+    padding-right: 20px;
+}
+#testimonials { 
+    text-align: center;
+    background-color:#2C3333;
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}  
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.testimonial-text{
+font-family: 'Montserrat-bold', sans-serif ;
+    font-size: 2rem;
+    line-height: 1.5;
+    padding-top: 2rem;
+}
+#pricing {
+    padding: 10px;
+    text-align: center;
+}
+.pricing-col {
+    padding: 3% 2%;
+}
+.price-head {
+    padding: 40px 50px 10px 40px;
+    font-size: 3.5rem;
+    text-align: center;
+    color:#00337C;
+
+}
+.price-sub {
+    font-size: 1.5rem;
+
+}
+.card-head {
+    color:#00337C;
+}
+#footer {
+    background-color:#2C3333 ;
+    text-align: center;
+    padding: 7% 15%;
+    color: #fff;
+}
+.foot-icon {
+    margin: 20px 10px;
+}
